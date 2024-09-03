@@ -85,4 +85,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributing
 Feel free to submit issues or pull requests. Contributions and suggestions are welcome!
 
-Replace `<username>` with your GitHub username and adjust other placeholder details as needed. This README file provides a clear and concise overview of the tool, its usage, and setup instructions.
